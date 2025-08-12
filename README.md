@@ -21,7 +21,6 @@
 - 💻 Skilled in **Python, Cloud Computing, Streamlit, Data Analytics**
 - 🌍 Aspiring to work **abroad in IT fields (Aviation, Maritime, Travel, Sports, Hospitality)**
 - 📈 Focused on **real-world projects** and **freelance opportunities**
-- 🏆 Backup plan: **CDAC PG-Diploma for secure placement**
 - ⚡ Fun fact: *I write cleaner code at 2 AM than at 2 PM.*
 
 ---
@@ -55,7 +54,7 @@
 ### 🎯 Current Goals
 - Secure a **remote / international IT role** in Python & Cloud Computing  
 - Build **portfolio-ready projects** that integrate AI + Cloud  
-- Apply for **startups & visa sponsorship roles** by April 2025  
+  
 
 ---
 
