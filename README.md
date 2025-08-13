@@ -1,6 +1,6 @@
 <!-- Profile Photo -->
 <p align="center">
-  <img src="https://drive.google.com/drive/folders/1sJapwvNTzP2HeVIG4jA0JCz0HCWDR0kd" alt="Aditya Jaiswal" width="150" height="150" style="border-radius: 50%;">
+  <img src="https://drive.google.com/file/d/1prbvY2lxTSO-jrp1Ep9PDOgHOSeteXc5/view?usp=sharing" alt="Aditya Jaiswal" width="150" height="150" style="border-radius: 50%;">
 </p>
 
 <!-- Name & Tagline -->
