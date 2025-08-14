@@ -1,7 +1,4 @@
-<!-- Profile Photo -->
-<p align="center">
-  <img src="https://drive.google.com/file/d/1prbvY2lxTSO-jrp1Ep9PDOgHOSeteXc5/view?usp=sharing" alt="Aditya Jaiswal" width="150" height="150" style="border-radius: 50%;">
-</p>
+
 
 <!-- Name & Tagline -->
 <h1 align="center">Hi 👋, I'm Aditya Jaiswal</h1>
