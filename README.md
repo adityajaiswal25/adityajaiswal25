@@ -2,7 +2,7 @@
 
 <!-- Name & Tagline -->
 <h1 align="center">Hi 👋, I'm Aditya Jaiswal</h1>
-<h3 align="center">Python Developer | Cloud Computing Enthusiast | Future Techpreneur</h3>
+<h3 align="center">Python Developer | AI/ML Enthusiast | Future Techpreneur</h3>
 
 <!-- Badges -->
 <p align="center">
@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 - 🎓 Final year **B.Tech in CSAI**
-- 💻 Skilled in **Python, Cloud Computing, Streamlit, Data Analytics**
+- 💻 Skilled in **Python, AI/ML, Cloud, Data Analytics**
 - 🌍 Aspiring to work **abroad in IT fields (Aviation, Maritime, Travel, Sports, Hospitality)**
 - 📈 Focused on **real-world projects** and **freelance opportunities**
 - ⚡ Fun fact: *I write cleaner code at 2 AM than at 2 PM.*
