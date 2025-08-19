@@ -62,7 +62,7 @@
 
 ---
 
-💬 *“Code like there’s no bug, test like there’s only bugs.”*
+
 
 
 <!--
