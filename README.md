@@ -49,8 +49,8 @@
 ---
 
 ### 🎯 Current Goals
-- Secure a **remote / international IT role** in Python & Cloud Computing  
-- Build **portfolio-ready projects** that integrate AI + Cloud  
+- Secure a **national / international IT role** in Python & AI/ML  
+- Build **portfolio-ready projects** that integrate PYTHON + AI  
   
 
 ---
