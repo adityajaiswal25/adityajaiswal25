@@ -14,9 +14,9 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Final year **B.Tech in CSAI**
+- 🎓 2025 Graduate **B.Tech in CSAI**
 - 💻 Skilled in **Python, AI/ML, Cloud, Data Analytics**
-- 🌍 Aspiring to work **abroad in IT fields (Aviation, Maritime, Travel, Sports, Hospitality)**
+- 🌍 Aspiring to work **abroad in IT fields**
 - 📈 Focused on **real-world projects** and **freelance opportunities**
 - ⚡ Fun fact: *I write cleaner code at 2 AM than at 2 PM.*
 
@@ -24,7 +24,7 @@
 
 ### 🛠️ Tech Stack
 - **Languages:** Python, Java (Basics), SQL  
-- **Cloud:** AWS, Azure (Basics), Cloud Integration in Projects  
+- **Cloud:** AWS, Cloud Integration in Projects  
 - **Data Science:** Pandas, NumPy, Matplotlib  
 - **Web & Tools:** Streamlit, Flask, Git/GitHub  
 - **Other:** API Integration, Data Visualization, Project Deployment
