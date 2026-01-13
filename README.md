@@ -1,41 +1,95 @@
-<!-- Name & Tagline -->
-<h1 align="center">Hi 👋 I'm Aditya Jaiswal</h1>
-<h3 align="center">Python Developer | Cloud & AI Focused | Entry-Level Tech Professional</h3>
+<h1 align="center">Aditya Jaiswal</h1>
+<h3 align="center">Python Developer | Cloud + AI Projects | Open to Remote & International Roles</h3>
 
-<!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Noida%20India-blue?style=flat&logo=google-maps">
-  <img src="https://img.shields.io/badge/Status-Actively%20Seeking%20IT%20Role-orange?style=flat&logo=target">
-  <img src="https://komarev.com/ghpvc/?username=adityajaiswal25&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/badge/Location-Bangalore%20India-blue">
+  <img src="https://img.shields.io/badge/Experience-Project%20Based-orange">
+  <img src="https://img.shields.io/badge/Availability-Immediate-green">
+  <img src="https://komarev.com/ghpvc/?username=adityajaiswal25&label=Profile%20views&color=0e75b6" />
 </p>
 
 ---
 
-### 🚀 About Me
-I am a **2025 BTech CSAI graduate** with hands-on experience in **Python development cloud integration and AI based applications**  
+## 👨‍💻 Who I Am
+I am a **2025 BTech Computer Science with AI graduate** focused on **Python development cloud integration and AI driven applications**  
 
-I am not a topper or theory-heavy student but I focus on **building working projects learning by implementation and solving real problems**  
+I learn by **building deploying and breaking things**  
+Not theory heavy but **project strong**  
 
-Currently looking for **entry level roles internships or remote opportunities** where I can grow fast and contribute from day one  
+Currently open to  
+- Entry level Python Developer roles
+- Backend/Data roles  
+- Cloud or AI trainee roles  
+- Startup environments and remote teams  
 
-- 🎓 BTech in Computer Science with AI  
-- 💻 Strong in Python project development  
-- ☁️ Practical exposure to AWS and cloud deployment  
-- 🌍 Long term goal to work in international IT environments  
-- ⚡ I believe skills + execution > marks
-
----
-
-### 🛠️ Tech Stack
-- **Programming:** Python SQL Java basics  
-- **AI & Data:** Pandas NumPy Matplotlib Prompt Engineering  
-- **Web:** Streamlit Flask REST APIs  
-- **Cloud:** AWS EC2 S3 basic deployment CI CD exposure  
-- **Tools:** Git GitHub VS Code  
+I value **execution consistency and real output** over certificates  
 
 ---
 
-### 📊 GitHub Stats
+## 🧠 Core Skills Recruiters Care About
+- Writing **clean readable Python code**
+- Converting ideas into **working applications**
+- Using **AI tools and prompts effectively**
+- Deploying apps on **cloud infrastructure**
+- Learning fast and adapting to new stacks
+
+---
+
+## 🛠️ Technical Stack
+**Programming**  
+Python SQL Java basics  
+
+**AI & Data**  
+Pandas NumPy Matplotlib Prompt Engineering  
+
+**Web Development**  
+Streamlit Flask REST APIs  
+
+**Cloud & DevOps**  
+AWS EC2 S3 basic CI CD deployment  
+
+**Tools**  
+Git GitHub VS Code Linux basics  
+
+---
+
+## 🚀 Featured Work (Real Not Dummy)
+### 🏥 Disease Analysis Using AI
+- AI powered disease insight system  
+- Symptom and report based analysis  
+- Severity prediction and guidance  
+- Streamlit dashboard with clean UI  
+- Focus on logic usability and flow  
+
+### ☁️ Cloud Integrated Python Apps
+- Python apps deployed on AWS  
+- Storage integration using S3  
+- Basic scalability and environment setup  
+
+### 📊 Data Analytics Dashboards
+- Business focused dashboards  
+- Insight driven charts not random graphs  
+- Clean readable visualizations  
+
+---
+
+## 📌 What I Am Actively Doing
+- Applying to off campus and startup roles  
+- Improving Python problem solving daily  
+- Enhancing cloud deployment skills  
+- Strengthening fundamentals via projects  
+
+---
+
+## 🎯 What I Am Looking For
+- Python Developer or AI trainee role  
+- Cloud or backend focused position  
+- Team where learning and ownership is valued  
+- Remote or international exposure preferred  
+
+---
+
+## 📈 GitHub Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityajaiswal25&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityajaiswal25&theme=tokyonight" />
@@ -43,42 +97,12 @@ Currently looking for **entry level roles internships or remote opportunities** 
 
 ---
 
-### 🧠 What I Am Currently Working On
-- Improving Python problem solving and clean code practices  
-- Building **cloud connected AI based projects**  
-- Preparing for **off campus interviews and startup roles**  
-- Strengthening fundamentals while shipping real projects  
-
----
-
-### 📝 Featured Projects
-- **Disease Analysis Using AI & ML**  
-  Streamlit based healthcare system using AI prompts for disease insights severity analysis and user guidance  
-
-- **Cloud Integrated Applications**  
-  Python web apps deployed on AWS with basic scalability and storage integration  
-
-- **Data Analytics Dashboards**  
-  Interactive dashboards focused on insights not just charts  
-
----
-
-### 🎯 Career Goals
-- Get a **Python or Cloud focused IT role** in startups MNCs or remote teams  
-- Gain industry experience before moving abroad  
-- Build strong fundamentals through real production level work  
-
----
-
-### 📫 Connect With Me
+## 📫 Reach Me
 <p align="center">
   <a href="https://www.linkedin.com/in/adityajaiswal25">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:aditya.jaiswal25003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/mr__unk_n_own_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Hire%20Me-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
