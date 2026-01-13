@@ -53,6 +53,12 @@ Git GitHub VS Code Linux basics
 
 ---
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,aws,flask,streamlit,linux,git,github,sql,docker&theme=light" />
+</p>
+
+---
+
 ## 🚀 Featured Work (Real Not Dummy)
 ### 🏥 Disease Analysis Using AI
 - AI powered disease insight system  
@@ -70,6 +76,12 @@ Git GitHub VS Code Linux basics
 - Business focused dashboards  
 - Insight driven charts not random graphs  
 - Clean readable visualizations  
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adityajaiswal25&theme=flat&row=1&margin-w=15" />
+</p>
 
 ---
 
@@ -91,8 +103,11 @@ Git GitHub VS Code Linux basics
 
 ## 📈 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityajaiswal25&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityajaiswal25&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityajaiswal25&show_icons=true&theme=default&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityajaiswal25&theme=default" />
 </p>
 
 ---
