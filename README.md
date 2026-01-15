@@ -60,7 +60,7 @@ Git GitHub VS Code Linux basics
 ---
 
 ## 🚀 Featured Work (Real Not Dummy)
-### 🏥 Disease Analysis Using AI
+### 🏥[ HealthBuddy AI ] Disease Analysis Using AI
 - AI powered disease insight system  
 - Symptom and report based analysis  
 - Severity prediction and guidance  
