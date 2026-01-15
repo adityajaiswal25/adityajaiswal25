@@ -1,5 +1,5 @@
 <h1 align="center">Aditya Jaiswal</h1>
-<h3 align="center">Python Developer | Cloud + AI Projects | Open to Remote & International Roles</h3>
+<h3 align="center">Python Developer | Cloud + AI Projects | Open to Work</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Bangalore%20India-blue">
