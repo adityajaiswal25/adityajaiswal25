@@ -1,9 +1,10 @@
 <h1 align="center">Aditya Jaiswal</h1>
-<h3 align="center">Python Developer | Cloud + AI Projects | Open to Work</h3>
+<h3 align="center">Building with Python · AI Automation · APIs · Cloud · Data · Backend</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Bangalore%20India-blue">
-  <img src="https://img.shields.io/badge/Experience-Project%20Based-orange">
+  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20n8n%20%7C%20FastAPI%20%7C%20AWS%20%7C%20LLMs-orange">
+  <img src="https://img.shields.io/badge/Experience-Project%20Based-blueviolet">
   <img src="https://img.shields.io/badge/Availability-Immediate-green">
   <img src="https://komarev.com/ghpvc/?username=adityajaiswal25&label=Profile%20views&color=0e75b6" />
 </p>
@@ -11,71 +12,152 @@
 ---
 
 ## 👨‍💻 Who I Am
-I am a **2025 BTech Computer Science with AI graduate** focused on **Python development cloud integration and AI driven applications**  
 
-I learn by **building deploying and breaking things**  
-Not theory heavy but **project strong**  
+I am a **2025 BTech CSAI graduate** who learns by building and shipping real things
 
-Currently open to  
-- Entry level Python Developer roles
-- Backend/Data roles  
-- Cloud or AI trainee roles  
-- Startup environments and remote teams  
+My work spans **Python development, AI-powered automation, backend APIs, cloud-integrated apps, SQL analysis, and data pipelines**
 
-I value **execution consistency and real output** over certificates  
+Not theory heavy — **project strong**
+
+Currently open to:
+- Python / Backend / Data / API roles
+- AI Automation and workflow engineering
+- Cloud or integration focused positions
+- Startups, remote teams, and international opportunities
 
 ---
 
-## 🧠 Core Skills Recruiters Care About
-- Writing **clean readable Python code**
-- Converting ideas into **working applications**
-- Using **AI tools and prompts effectively**
-- Deploying apps on **cloud infrastructure**
-- Learning fast and adapting to new stacks
+## 🚀 Featured Work
+
+### 🔁 Automated Outreach + Reply Tracking System
+`n8n` · `HubSpot CRM` · `Resend API` · `OpenRouter LLM` · `Webhooks`
+
+- Pulls contacts from HubSpot CRM via OAuth
+- LLM generates personalized background summary per contact
+- LLM writes a custom HTML outreach email per person
+- Sends via Resend API with reply-to tracking domain
+- Webhook captures replies → fetches full email body via API
+- Custom JS strips quoted history and extracts clean reply
+- LLM classifies lead intent: `interested` / `not interested` / `followup`
+- Auto-updates HubSpot contact with reply text + interest tag
+
+**→ [View Repo](https://github.com/adityajaiswal25/Automated-Outreach-and-Reply-Tracking-System-HUBSPOT-RESEND)**
+
+---
+
+### 🎯 Outreach AI — GTM Automation Pipeline
+`n8n` · `Google Sheets` · `LLMs` · `Free Stack`
+
+- Converts raw event attendee or speaker list into enriched outreach data
+- Persona-driven multi-channel outreach workflow
+- Fully built on free tools — n8n + Google Sheets + LLMs
+- End-to-end GTM automation without paid CRM dependency
+
+**→ [View Repo](https://github.com/adityajaiswal25/Outreach-AI-GTM-Automation)**
+
+---
+
+### 🧠 People Data Intelligence — Email Enrichment Pipeline
+`n8n` · `People Data Labs API` · `JSONBin` · `Webhooks`
+
+- Receives email via POST webhook trigger
+- Enriches via PDL API → full person profile (experience, location, socials)
+- Fetches and updates JSONBin records automatically
+- Builds a live structured database of enriched profiles
+
+**→ [View Repo](https://github.com/adityajaiswal25/PDI-Email-Enrichment-Automation)**
+
+---
+
+### 🏥 HealthBuddy AI — Disease Analysis System
+`Python` · `Streamlit` · `LLM` · `AWS`
+
+- Symptom and report based AI disease insight system
+- Severity prediction and user guidance
+- Clean Streamlit dashboard · Live on AWS
+
+**→ [View Repo](https://github.com/adityajaiswal25/HealthBuddy-AI) · [Live App](https://healthbuddy-ai.streamlit.app/)**
+
+---
+
+### ⚡ FastAPI CRUD — Patient Management System
+`Python` · `FastAPI` · `REST API`
+
+- Fully functional patient records API built with FastAPI
+- CRUD operations — Create, Read, Update, Delete
+- Clean REST API structure with proper routing and response models
+- Production-ready backend design
+
+**→ [View Repo](https://github.com/adityajaiswal25/FastApi_CRUD_Application_Patient_Managemet_System)**
+
+---
+
+### 🔗 Identity Reconciliation — Backend API
+`Python` · `FastAPI` · `Logic Design`
+
+- Merges multiple user records based on email and phone
+- Returns a single primary contact with linked secondary IDs
+- Solves real-world deduplication and identity linking problem
+
+**→ [View Repo](https://github.com/adityajaiswal25/Identity-Reconciliation)**
+
+---
+
+### 📊 Zepto Inventory — SQL Data Analysis
+`SQL` · `Data Analysis` · `E-commerce`
+
+- Real-world e-commerce inventory dataset inspired by Zepto
+- Full SQL analyst portfolio project
+- Queries cover inventory tracking, demand analysis, and business insights
+
+**→ [View Repo](https://github.com/adityajaiswal25/Zepto_Inventory_SQL_Data_Analysis)**
+
+---
+
+### 💬 Automated WhatsApp Message Scheduler
+`Python` · `Streamlit` · `Automation`
+
+- Schedule and send WhatsApp messages via WhatsApp Web
+- Clean Streamlit UI with auto log deletion and easy scheduling
+
+**→ [View Repo](https://github.com/adityajaiswal25/AutomatedWhatsAppMessage)**
 
 ---
 
 ## 🛠️ Technical Stack
-**Programming**  
-Python SQL Java basics  
 
-**AI & Data**  
-Pandas NumPy Matplotlib Prompt Engineering  
+**Languages**
+Python · SQL · Java basics
 
-**Web Development**  
-Streamlit Flask REST APIs  
+**AI & Automation**
+n8n · OpenRouter · Prompt Engineering · LangChain basics · Webhook integrations
 
-**Cloud & DevOps**  
-AWS EC2 S3 basic CI CD deployment  
+**APIs & Integrations**
+HubSpot CRM · Resend API · People Data Labs · JSONBin · REST APIs
 
-**Tools**  
-Git GitHub VS Code Linux basics  
+**Backend & Web**
+FastAPI · Flask · Streamlit
+
+**Cloud & DevOps**
+AWS EC2 · S3 · Git · GitHub · Linux · basic CI/CD
+
+**Data**
+Pandas · NumPy · Matplotlib · openpyxl
 
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,aws,flask,streamlit,linux,git,github,sql,docker&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,streamlit,aws,linux,git,github,docker&theme=light" />
 </p>
 
 ---
 
-## 🚀 Featured Work (Real Not Dummy)
-### 🏥[ HealthBuddy AI ] Disease Analysis Using AI
-- AI powered disease insight system  
-- Symptom and report based analysis  
-- Severity prediction and guidance  
-- Streamlit dashboard with clean UI  
-- Focus on logic usability and flow  
+## 📌 What I Am Actively Doing
 
-### ☁️ Cloud Integrated Python Apps
-- Python apps deployed on AWS  
-- Storage integration using S3  
-- Basic scalability and environment setup  
-
-### 📊 Data Analytics Dashboards
-- Business focused dashboards  
-- Insight driven charts not random graphs  
-- Clean readable visualizations  
+- Building and shipping real automation and AI workflows
+- Improving Python and backend API skills
+- Expanding cloud deployment knowledge
+- Applying to off campus, startup, and remote roles
 
 ---
 
@@ -85,27 +167,11 @@ Git GitHub VS Code Linux basics
 
 ---
 
-## 📌 What I Am Actively Doing
-- Applying to off campus and startup roles  
-- Improving Python problem solving daily  
-- Enhancing cloud deployment skills  
-- Strengthening fundamentals via projects  
-
----
-
-## 🎯 What I Am Looking For
-- Python Developer or AI trainee role  
-- Cloud or backend focused position  
-- Team where learning and ownership is valued  
-- Remote or international exposure preferred  
-
----
-
 ## 📈 GitHub Activity
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityajaiswal25&show_icons=true&theme=default&cache_seconds=1800" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityajaiswal25&theme=default" />
 </p>
@@ -113,6 +179,7 @@ Git GitHub VS Code Linux basics
 ---
 
 ## 📫 Reach Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/adityajaiswal25">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
